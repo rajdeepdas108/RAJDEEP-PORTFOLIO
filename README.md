@@ -26,4 +26,4 @@ Beyond tech, I’m a **spiritual person**, always striving for balance, growth, 
 ---
 
 Feel free to fork, explore my code, or connect with me for collaboration! 🚀  
-🔗 [Your Portfolio Website or LinkedIn] *(optional)*  
+🔗 (https://www.linkedin.com/in/rajdeepdas108/)

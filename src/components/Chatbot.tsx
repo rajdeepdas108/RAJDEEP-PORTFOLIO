@@ -15,7 +15,7 @@ interface Message {
 const Chatbot = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [showSettings, setShowSettings] = useState(false);
-  const [apiKey, setApiKey] = useState('sk-qrst5678qrst5678qrst5678qrst5678qrst5678');
+  const [apiKey, setApiKey] = useState('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');
   const [messages, setMessages] = useState<Message[]>([
     {
       id: '1',
